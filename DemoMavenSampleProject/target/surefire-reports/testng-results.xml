@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Maven Project suite" duration-ms="84321" started-at="2016-01-29T05:06:50Z" finished-at="2016-01-29T05:08:14Z">
+    <groups>
+    </groups>
+    <test name="Sample Test Run" duration-ms="84321" started-at="2016-01-29T05:06:50Z" finished-at="2016-01-29T05:08:14Z">
+      <class name="Txl.DemoMavenSampleProject.SampleTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:Txl.DemoMavenSampleProject.SampleTest@6df97b55]" name="test" duration-ms="2" started-at="2016-01-29T10:37:41Z" finished-at="2016-01-29T10:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Txl.DemoMavenSampleProject.SampleTest -->
+      <class name="Txl.DemoMavenSampleProject.ExampleTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:Txl.DemoMavenSampleProject.ExampleTest@50f8360d]" name="startUp" is-config="true" duration-ms="50424" started-at="2016-01-29T10:36:50Z" finished-at="2016-01-29T10:37:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="testDownload()[pri:0, instance:Txl.DemoMavenSampleProject.ExampleTest@50f8360d]" name="testDownload" duration-ms="23712" started-at="2016-01-29T10:37:41Z" finished-at="2016-01-29T10:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownload -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Txl.DemoMavenSampleProject.ExampleTest@50f8360d]" name="tearDown" is-config="true" duration-ms="9826" started-at="2016-01-29T10:38:04Z" finished-at="2016-01-29T10:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Txl.DemoMavenSampleProject.ExampleTest -->
+    </test> <!-- Sample Test Run -->
+  </suite> <!-- Maven Project suite -->
+</testng-results>

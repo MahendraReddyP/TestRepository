@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Maven Project suite">
+  <test verbose="2" name="Sample Test Run">
+    <classes>
+      <class name="Txl.DemoMavenSampleProject.SampleTest"/>
+      <class name="Txl.DemoMavenSampleProject.ExampleTest"/>
+	</classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
